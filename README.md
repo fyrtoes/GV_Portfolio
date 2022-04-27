@@ -1,7 +1,13 @@
 # GV_Portfolio
 data portfolio
 
-# Project 1: Choropeth maps
+# [Project 1: Choropeth maps](https://github.com/fyrtoes/2022-p1-Choropeth-Map)
+* Extracted public census data
+* Cleaned data for mismatching country names
+* Split population and surface areas into component parts due to different states/union territories being aggregated together.
+* Visualized population density using mapbox package
+* Visualized sex ratio scale
+
 ## India population density
 ![](images/newplot_India%20PD.png)
 
@@ -28,8 +34,4 @@ data portfolio
 * Created new fields from calculations
 * Created a temporary table
 * Created View for further data consumption in visualization products
-
-## Code and Resources Used
-**SQL version:** Microsoft SQL Server 2019 - 15.0.2000.5  
-**SQL Server MGMT Studio Version:** 15.0.18410.0
 
